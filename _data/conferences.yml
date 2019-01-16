@@ -50,16 +50,6 @@
   place: Unknown
   sub: JN
 
-- name: Programming Issue 2
-  year: 2019
-  id: prog192
-  link: http://programming-journal.org/
-  deadline: "2019-06-01 23:59:59"
-  timezone: Etc/GMT+12
-  date: Unknown
-  place: Unknown
-  sub: JN
-
 - name: Programming
   year: 2018
   id: prog18
@@ -220,13 +210,13 @@
   sub: CF
 
 - name: MODELS
-  year: 2018
-  id: models18
+  year: 2019
+  id: models19
   link: http://modelsconference.org/
-  deadline: "2018-05-04 23:59:59"
+  deadline: "2019-22-04 23:59:59"
   timezone: Etc/GMT+12
-  date: October 14 - October 19, 2018
-  place: Copenhagen, Denmark
+  date: September 15 - September 20, 2019
+  place: Munich, Germany
   sub: CF
 
 - name: ESEM
