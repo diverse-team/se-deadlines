@@ -1,6 +1,16 @@
 
 ---
 
+- name: ECMFA
+  year: 2020
+  id: ecmfa20
+  link: https://staf2020.hvl.no/events/ecmfa2020/
+  deadline: "2019-10-11 23:59:59"
+  timezone: Etc/GMT+12
+  date: June 22 - June 26, 2020
+  place: Bergen, Norway
+  sub: CF
+
 - name: SLE
   year: 2019
   id: sle19
